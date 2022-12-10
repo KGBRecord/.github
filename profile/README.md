@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We're Z-orgs</h1>
 <h3 align="center">Newbie website developers from Vietnam</h3>
 
--   🔭 We're currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/vn)
+-   🔭 We're currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en)
 
 -   👯 We're looking to collaborate on [Z-orgs](https://github.com/Z-orgs)
 
