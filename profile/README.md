@@ -9,8 +9,6 @@
 
 -   👨‍💻 All of our projects are available at [https://github.com/orgs/Z-orgs/repositories](https://github.com/orgs/Z-orgs/repositories)
 
--   💔 **I loved her**
-
 <div align="center">
 
 # 💻 Tech Stack:
