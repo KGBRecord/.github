@@ -5,6 +5,8 @@
 
 -   👨‍💻 All of our projects are available at [https://github.com/orgs/Z-orgs/repositories](https://github.com/orgs/Z-orgs/repositories)
 
+-   If you see that the project is not in a public archive, it means your project is still under development.
+
 <div align="center">
 
 # 💻 Tech Stack:
