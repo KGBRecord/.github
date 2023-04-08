@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're Z</h1>
+<h1 align="center">Hi 👋, We're DAINN</h1>
 <h3 align="center">Newbie website developers from Vietnam</h3>
 
 -   🔭 We're currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en)
