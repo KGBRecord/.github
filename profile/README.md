@@ -3,9 +3,7 @@
 
 -   🔭 We're currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en)
 
--   👨‍💻 All of our projects are available at [https://github.com/orgs/Z-orgs/repositories](https://github.com/orgs/Z-orgs/repositories)
-
--   😊 If you see that the project is not in a public archive, it means our project is still under development.
+-   👨‍💻 All of our projects are available at [here](https://github.com/orgs/Z-orgs/repositories)
 
 ## 📄 Members of Z:
 
