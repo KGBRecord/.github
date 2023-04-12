@@ -7,7 +7,7 @@
 
 ## 📄 Members of DAINN:
 
--   [mxz](https://github.com/mxzxm)
+-   [mxz](https://github.com/mxz4)
 -   [Yuno](https://github.com/imdev2002)
 -   [BLUE](https://github.com/BLVEhv)
 -   [Hanzo](https://github.com/ntl-Haa)
