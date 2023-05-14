@@ -5,7 +5,7 @@
 
 -   👨‍💻 All of our projects are available at [here](https://github.com/orgs/Z-orgs/repositories)
 
-## 📄 Members of DAINN:
+## 📄 Members of Z:
 
 -   [Kwzng](https://github.com/Kwzng)
 -   [Yuno](https://github.com/imdev2002)
