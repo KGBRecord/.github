@@ -10,7 +10,6 @@
 -   [710](https://github.com/710x)
 -   [Yuno](https://github.com/imdev2002)
 -   [BLUE](https://github.com/BLVEh)
--   [Hanzo](https://github.com/ntl-Haa)
 
 ## 💻 Tech Stack:
 
