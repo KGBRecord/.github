@@ -13,4 +13,4 @@
 
 ## 💻 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,express,git,md,nestjs,nodejs,supabase,postman,mysql,mongodb,graphql,docker,react,html,css,jquery,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=js,ts,express,git,md,nestjs,nodejs,supabase,postman,mysql,mongodb,graphql,docker,react,html,css,jquery,bootstrap,tailwind,bots,gcp,postgres,prisma)
