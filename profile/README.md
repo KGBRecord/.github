@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, We're Z</h1>
 <h3 align="center">Newbie website developers from Vietnam</h3>
 
--   🪙 We are members of the development team of [xpocket.app](https://xpocket.app)
-
 -   🔭 We're currently studying at [Hanoi University of Industry](https://www.haui.edu.vn/en)
 
 -   👨‍💻 All of our projects are available at [here](https://github.com/orgs/Z-orgs/repositories)
