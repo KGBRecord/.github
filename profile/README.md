@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're KGB Record</h1>
+<h1 align="center">Hi 👋, We're КГБ Record</h1>
 <h3 align="center">Developers from Vietnam</h3>
 
 ## 💻 Tech Stack:
