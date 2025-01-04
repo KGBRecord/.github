@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🎵, We're КГБ Record</h1>
+<h1 align="center">Hi 🎵, We're KGB Record</h1>
 <h3 align="center">Artists & Creators from Vietnam</h3>
 
 We are not just developers; we are artists who craft beautiful "music" through technology. Each tool and language we use is like an instrument, coming together to create symphonies of innovation and creativity. 🎼
