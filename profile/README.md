@@ -5,7 +5,7 @@ We are not just developers; we are artists who craft beautiful "music" through t
 
 ## 🎶 Our Instruments:
 \
-![Instruments](https://skillicons.dev/icons?i=nodejs,js,ts,cs,java,go,python,maven,opencv,docker,postman,git,mongo,express,nest,mysql,graphql,md,supabase,bots,gcp,postgres,prisma,kafka,nginx,redis,unity,next,react,html,css,jquery,bootstrap,tailwind,redis,flutter)
+![Instruments](https://skillicons.dev/icons?i=nodejs,js,ts,cs,java,go,python,maven,opencv,docker,postman,git,mongo,express,nest,mysql,graphql,md,supabase,bots,gcp,postgres,prisma,kafka,nginx,redis,unity,next,react,html,css,jquery,bootstrap,tailwind,flutter)
 
 Each instrument in our orchestra plays a vital role in creating something extraordinary. Whether it's **Node.js** on the drums, **React** as the strings, or **Docker** keeping the rhythm, we blend these tools into a harmonious masterpiece.
 
