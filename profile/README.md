@@ -16,5 +16,5 @@ IoT is our special rhythm section, connecting the physical and digital worlds li
 Ready to compose the next big tech symphony together?  
 📧 **Reach out to us:** [syhanhcbq@gmail.com](mailto:syhanhcbq@gmail.com)  
 ---  
-**🎼 Powered By [KGB Record](https://github.com/KGBRecord)**  
+**🎼 Powered By [@KGBRecord](https://github.com/KGBRecord)**  
 *Where code meets melody, and ideas become anthems.*  
