@@ -13,8 +13,10 @@ Each instrument in our orchestra plays a vital role in creating something extrao
 IoT is our special rhythm section, connecting the physical and digital worlds like a bassline that ties everything together. From custom watch faces to real-time systems, our IoT expertise adds a unique layer to our symphony, making it more dynamic and interconnected.
 
 ## 🎧 Let's Collaborate!
+
 Ready to compose the next big tech symphony together?  
-📧 **Reach out to us:** [syhanhcbq@gmail.com](mailto:syhanhcbq@gmail.com)  
----  
+📧 **Reach out to us:** [Gmail](mailto:syhanhcbq@gmail.com)  
+
+
 **🎼 Powered By [@KGBRecord](https://github.com/KGBRecord)**  
 *Where code meets melody, and ideas become anthems.*  
